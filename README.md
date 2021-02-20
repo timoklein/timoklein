@@ -1,7 +1,6 @@
 ### What's up
 
-My name's Timo and I'm doing machine learning from :Germany: .   
-I'm a Master's student at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php).
+My name's Timo and I'm a Master's student at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) in Germany.
 
 #### Currently
 - Working on my thesis in autonomous driving.
