@@ -1,8 +1,8 @@
 ### What's up
 
-My name's Timo and I'm a Master's student at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) in Germany.
+My name's Timo and I'm a master's student at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) in Germany.
 
-#### Currently
+#### I'm Currently
 - Working on my thesis in autonomous driving.
 - Learning more about deep RL and C++.
 - Looking for research opportunities in reinforcement learning. 
