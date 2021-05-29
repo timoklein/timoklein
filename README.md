@@ -27,6 +27,9 @@ My name's Timo and I'm a master's student at the [Karlsruhe Institute of Technol
   <a href="https://scholar.google.com/citations?user=FTLseBUAAAAJ&hl=en&oi=ao">
     <img align="left" alt="Scholar" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
   </a>  
+  <a href="https://timoklein.github.io/">
+    <img align="left" alt="Website" width="60px" src="https://visualpharm.com/assets/763/Website-595b40b65ba036ed117d1353.svg" />
+  </a>  
 </p>
 
 <br/>
